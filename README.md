@@ -13,8 +13,5 @@ darefit clinic 사이트로, 카페24로 진행했습니다.
 
 ! 다운받아서 사용하셔도 나오지 않을겁니다. 
 
-## Initial screen
-![main]()
-
 ## URL
 <현재 열린 사이트가 아니라 URL은 없습니다. 
