@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<h5>안녕하세요.<br>이 사이트는 <darefit 클리닉> 이라는 사이트 입니다</h5>
+<h5>안녕하세요.<br>이 사이트는 darefit 클리닉 이라는 사이트 입니다</h5>
 </p>
 
 ## Project
