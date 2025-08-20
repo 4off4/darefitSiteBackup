@@ -14,4 +14,4 @@ darefit clinic 사이트로, 카페24로 진행했습니다.<br>
 ! 다운받아서 사용하셔도 나오지 않을겁니다. 
 
 ## URL
-[>](https://www.darefit.co.kr/)
+[다리핏의원](https://www.darefit.co.kr/)
